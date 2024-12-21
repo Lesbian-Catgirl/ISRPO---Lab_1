@@ -87,13 +87,13 @@ printf("Perimeter is: %d", resultP);
 Author: Lesbian-Catgirl <Lon.g.ren@yandex.ru>\
 Date:   Fri Sep 27 09:11:32 2024 +0300
 
-    new file:   circle.cpp
-    deleted:    circle.py
-    new file:   rectangle.cpp
-    deleted:    rectangle.py
-    new file:   square.cpp
-    deleted:    square.py
-    new file:   triangle.cpp
+    new file:   circle.cpp\
+    deleted:    circle.py\
+    new file:   rectangle.cpp\
+    deleted:    rectangle.py\
+    new file:   square.cpp\
+    deleted:    square.py\
+    new file:   triangle.cpp\
     deleted:    triangle.py
 
     Changed all files to C++
@@ -120,15 +120,15 @@ Date:   Sat Dec 21 16:39:13 2024 +0300
 Author: Lesbian-Catgirl <Lon.g.ren@yandex.ru>\
 Date:   Sat Dec 21 16:43:45 2024 +0300
 
-    modified:   circle.cpp
-    modified:   docs/README.md
+    modified:   circle.cpp\
+    modified:   docs/README.md\
     modified:   rectangle.cpp
 
 - [commit d9e49f1a860af84d8ac6230cf7135b3547325e54](https://github.com/KulEDmitr/geometric_lib/commit/d9e49f1a860af84d8ac6230cf7135b3547325e54)\
 Author: Lesbian-Catgirl <Lon.g.ren@yandex.ru>\
 Date:   Sat Dec 21 16:47:17 2024 +0300
 
-    modified:   docs/README.md
+    modified:   docs/README.md\
     modified:   triangle.cpp
 
 - [commit 360fd86dc1d8ae368f65438c7e3c2b38b42d65bb](https://github.com/KulEDmitr/geometric_lib/commit/360fd86dc1d8ae368f65438c7e3c2b38b42d65bb)\
