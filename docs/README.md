@@ -2,12 +2,24 @@
 ## Math formulas is a library for calculating areas and perimeters for diffenrent geometric figures: circle, rectangle, triangle, square
 
 # Figures
-## [Circle](https://github.com/Lesbian-Catgirl/ISRPO---Lab_1/blob/main/circle.cpp)
+## [Circle](https://github.com/Lesbian-Catgirl/ISRPO---Lab_1/blob/commenting/circle.cpp)
 ### Parameters
 - int r: contains radius of the circle
 ### Functions
 - Area(r): returns area of the circle with given radius
 - Perimeter(r): returns perimeter of the circle with given radius
+### Usage example:
+```
+#include "circle.cpp"
+
+float resultA = Area(12);
+printf("Area is: %f", resultA);
+// Area is: 452.389342
+
+float resultP = Perimeter(12);
+printf("Perimeter is: %f", resultP);
+// Perimeter is: 75.398223
+```
 
 ## [Rectangle](https://github.com/Lesbian-Catgirl/ISRPO---Lab_1/blob/commenting/rectangle.cpp)
 ### Parameters
@@ -16,6 +28,18 @@
 ### Functions
 - Area(a, b): returns area of the rectangle with given sides lengthes
 - Perimeter(a, b): returns perimeter of the rectangle with given sides lengthes
+### Usage example:
+```
+#include "rectangle.cpp"
+
+int resultA = Area(2, 5);
+printf("Area is: %d", resultA);
+// Area is: 10
+
+int resultP = Perimeter(2, 5);
+printf("Perimeter is: %d", resultP);
+// Perimeter is: 14
+```
 
 ## [Triangle](https://github.com/Lesbian-Catgirl/ISRPO---Lab_1/blob/commenting/triangle.cpp)
 ### Parameters
@@ -26,6 +50,18 @@
 ### Functions
 - Area(a, h): returns area of the triangle with given side and height lengthes
 - Perimeter(a, b, c): returns perimeter of the triangle with given sides' lengthes
+### Usage example:
+```
+#include "triangle.cpp"
+
+float resultA = Area(2, 5);
+printf("Area is: %f", resultA);
+// Area is: 5.0
+
+int resultP = Perimeter(2, 6, 7);
+printf("Perimeter is: %d", resultP);
+// Perimeter is: 15
+```
 
 ## [Square](https://github.com/Lesbian-Catgirl/ISRPO---Lab_1/blob/commenting/square.cpp)
 ### Parameters
@@ -33,6 +69,18 @@
 ### Functions
 - Area(a): returns area of a square with given side length
 - Perimeter(r): returns perimeter of a square with given side length
+### Usage example:
+```
+#include "square.cpp"
+
+int resultA = Area(6);
+printf("Area is: %d", resultA);
+// Area is: 36
+
+int resultP = Perimeter(6);
+printf("Perimeter is: %d", resultP);
+// Perimeter is: 24
+```
 
 # Commits history
 - [commit fd7d08479cc607380f23553a569d2dc080abffe0](https://github.com/KulEDmitr/geometric_lib/commit/fd7d08479cc607380f23553a569d2dc080abffe0)\
