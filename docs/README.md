@@ -35,8 +35,7 @@
 - Perimeter(r): returns perimeter of a square with given side length
 
 # Commits history
-- [commit fd7d08479cc607380f23553a569d2dc080abffe0]
-(https://github.com/KulEDmitr/geometric_lib/commit/fd7d08479cc607380f23553a569d2dc080abffe0)
+- [commit fd7d08479cc607380f23553a569d2dc080abffe0](https://github.com/KulEDmitr/geometric_lib/commit/fd7d08479cc607380f23553a569d2dc080abffe0)
 Author: Lesbian-Catgirl <Lon.g.ren@yandex.ru>
 Date:   Fri Sep 27 09:11:32 2024 +0300
 
@@ -51,29 +50,25 @@ Date:   Fri Sep 27 09:11:32 2024 +0300
 
     Changed all files to C++
 
-- [commit d55a1b9551f3aef2fb90f4807cc8a7aa2fbe2ff3]
-(https://github.com/KulEDmitr/geometric_lib/commit/d55a1b9551f3aef2fb90f4807cc8a7aa2fbe2ff3)
+- [commit d55a1b9551f3aef2fb90f4807cc8a7aa2fbe2ff3](https://github.com/KulEDmitr/geometric_lib/commit/d55a1b9551f3aef2fb90f4807cc8a7aa2fbe2ff3)
 Author: Lesbian-Catgirl <Lon.g.ren@yandex.ru>
 Date:   Fri Sep 27 09:49:45 2024 +0300
 
     added usage commnets to all functions
 
-- [commit 53753a4b4b4c648763fea7a9e2f43ed9c8aab230]
-(https://github.com/KulEDmitr/geometric_lib/commit/53753a4b4b4c648763fea7a9e2f43ed9c8aab230)
+- [commit 53753a4b4b4c648763fea7a9e2f43ed9c8aab230](https://github.com/KulEDmitr/geometric_lib/commit/53753a4b4b4c648763fea7a9e2f43ed9c8aab230)
 Author: Lesbian-Catgirl <Lon.g.ren@yandex.ru>
 Date:   Sat Dec 21 16:33:27 2024 +0300
 
     modified:   docs/README.md
 
-- [commit d81dfdc47a03895331235de2a2c5a630d188203f]
-(https://github.com/KulEDmitr/geometric_lib/commit/d81dfdc47a03895331235de2a2c5a630d188203f)
+- [commit d81dfdc47a03895331235de2a2c5a630d188203f](https://github.com/KulEDmitr/geometric_lib/commit/d81dfdc47a03895331235de2a2c5a630d188203f)
 Author: Lesbian-Catgirl <Lon.g.ren@yandex.ru>
 Date:   Sat Dec 21 16:39:13 2024 +0300
 
     modified:   docs/README.md
 
-- [commit 52f66bf289d637e4bb136438457a327e96f47c6d]
-(https://github.com/KulEDmitr/geometric_lib/commit/52f66bf289d637e4bb136438457a327e96f47c6d)
+- [commit 52f66bf289d637e4bb136438457a327e96f47c6d](https://github.com/KulEDmitr/geometric_lib/commit/52f66bf289d637e4bb136438457a327e96f47c6d)
 Author: Lesbian-Catgirl <Lon.g.ren@yandex.ru>
 Date:   Sat Dec 21 16:43:45 2024 +0300
 
@@ -81,16 +76,14 @@ Date:   Sat Dec 21 16:43:45 2024 +0300
     modified:   docs/README.md
     modified:   rectangle.cpp
 
-- [commit d9e49f1a860af84d8ac6230cf7135b3547325e54]
-(https://github.com/KulEDmitr/geometric_lib/commit/d9e49f1a860af84d8ac6230cf7135b3547325e54)
+- [commit d9e49f1a860af84d8ac6230cf7135b3547325e54](https://github.com/KulEDmitr/geometric_lib/commit/d9e49f1a860af84d8ac6230cf7135b3547325e54)
 Author: Lesbian-Catgirl <Lon.g.ren@yandex.ru>
 Date:   Sat Dec 21 16:47:17 2024 +0300
 
     modified:   docs/README.md
     modified:   triangle.cpp
 
-- [commit 360fd86dc1d8ae368f65438c7e3c2b38b42d65bb]
-(https://github.com/KulEDmitr/geometric_lib/commit/360fd86dc1d8ae368f65438c7e3c2b38b42d65bb)
+- [commit 360fd86dc1d8ae368f65438c7e3c2b38b42d65bb](https://github.com/KulEDmitr/geometric_lib/commit/360fd86dc1d8ae368f65438c7e3c2b38b42d65bb)
 Author: Lesbian-Catgirl <Lon.g.ren@yandex.ru>
 Date:   Sat Dec 21 16:48:10 2024 +0300
 
