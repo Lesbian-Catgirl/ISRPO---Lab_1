@@ -24,13 +24,12 @@
 - int c: contains length of the third triangle's sides
 - int h: contains length of the height to the same side if the triangle
 ### Functions
-- Area(r): returns area of the triangle with given side and height lengthes
+- Area(a, h): returns area of the triangle with given side and height lengthes
 - Perimeter(a, b, c): returns perimeter of the triangle with given sides' lengthes
 
 # [Square] (https://github.com/Lesbian-Catgirl/ISRPO---Lab_1/blob/commenting/square.cpp)
 ### Parameters
-- int a:
-- int b:
+- int a: contains length of the square's side
 ### Functions
-- Area(r): returns
-- Perimeter(r): returns
+- Area(a): returns area of a square with given side length
+- Perimeter(r): returns perimeter of a square with given side length
