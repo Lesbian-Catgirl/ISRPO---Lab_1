@@ -14,16 +14,18 @@
 - int a: contains length of one of the rectangle's sides
 - int b: contains length of the other of the rectangle's sides
 ### Functions
-- Area(r): returns area of the rectangle with given sides lengthes
-- Perimeter(r): returns perimeter of the rectangle with given sides lengthes
+- Area(a, b): returns area of the rectangle with given sides lengthes
+- Perimeter(a, b): returns perimeter of the rectangle with given sides lengthes
 
 # [Triangle] (https://github.com/Lesbian-Catgirl/ISRPO---Lab_1/blob/commenting/triangle.cpp)
 ### Parameters
-- int a:
-- int b:
+- int a: contains length of the first triangle's sides
+- int b: contains length of the second triangle's sides
+- int c: contains length of the third triangle's sides
+- int h: contains length of the height to the same side if the triangle
 ### Functions
-- Area(r): returns
-- Perimeter(r): returns
+- Area(r): returns area of the triangle with given side and height lengthes
+- Perimeter(a, b, c): returns perimeter of the triangle with given sides' lengthes
 
 # [Square] (https://github.com/Lesbian-Catgirl/ISRPO---Lab_1/blob/commenting/square.cpp)
 ### Parameters
